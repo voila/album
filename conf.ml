@@ -1,0 +1,6 @@
+let site_dir = "/path/to/my/site"
+let html_dir = "."
+let videos_dir = "videos"
+let photos_dir = "photos"
+let thumbs_dir = "thumbs"
+let captions_dir = "captions"
